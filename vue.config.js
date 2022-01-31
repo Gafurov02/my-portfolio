@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/my-portfoliogit/'
+    publicPath: '/bobur-portfolio1/'
 }
